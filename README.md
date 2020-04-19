@@ -1,1 +1,1 @@
-# GO-Lang
+# GO
